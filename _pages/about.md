@@ -103,6 +103,7 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 ### Preprints
 - **Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning**  
   **Jieming Bian**, Lei Wang, Jie Xu
+  [[PDF](https://arxiv.org/abs/2408.06549)] 
   
 
 - **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA**  
