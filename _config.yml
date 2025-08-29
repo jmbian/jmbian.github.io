@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jieming Bian"
-description              : "Ph.D. Candidate in Computer Engineering, University of Florida. Research on Federated Learning, Parameter-Efficient Fine-Tuning, and Large Foundation Models."
+description              : 
 repository               : "jmbian/jmbian.github.io"
 google_scholar_stats_use_cdn : true
 
