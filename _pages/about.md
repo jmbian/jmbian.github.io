@@ -12,7 +12,7 @@ redirect_from:
 
 <img src="images/my_image.jpg" alt="portrait" style="width:200px; border-radius:50%; float:right; margin-left:20px"/>
 
-I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **University of Florida**, advised by Prof. Jie Xu. Before joining UF, I was a master student at Columbia University, major in Operations Research. My research focuses on **Federated Learning**, **Parameter-Efficient Fine-Tuning (PEFT)**, and **Large Foundation Models**.  
+I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **University of Florida**, advised by Prof. [Jie Xu](https://jiexu.ece.ufl.edu/). Before joining UF, I was a master student at Columbia University, major in Operations Research. My research focuses on **Federated Learning**, **Parameter-Efficient Fine-Tuning (PEFT)**, and **Large Foundation Models**.  
 
 ---
 
@@ -125,9 +125,9 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 
 
 # 💻 Internships
-- *2024.06 - 2024.08*, Applied Scientist Intern, Amazon, Boston, MA.
-- *2024.06 - 2024.08*, NLP Data Scientist Intern, American Express, New York, NY.
-- *2020.06 - 2020.09*, Data Scientist Intern, Cygnus Education, Bryn Mawr, PA.
+- *2024.06 - 2024.08*, Applied Scientist Intern, [Amazon](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence), Boston, MA.
+- *2024.06 - 2024.08*, NLP Data Scientist Intern, [American Express](https://www.americanexpress.com/), New York, NY.
+- *2020.06 - 2020.09*, Data Scientist Intern, [Cygnus Education](https://cygnuseducation.com/), Bryn Mawr, PA.
 
 # 💬 Service  
 
