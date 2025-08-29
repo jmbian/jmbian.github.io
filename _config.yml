@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jieming Bian"
-  avatar           : "images/my_image.jpg"  
+  avatar           : "android-chrome-512x512.png"  
   bio              : "Ph.D. Candidate in Computer Engineering, University of Florida"
   location         : "Gainesville, FL, USA"
   employer         : "University of Florida"
