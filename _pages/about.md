@@ -20,22 +20,93 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 I will join Amazon Alexa AI as an Applied Scientist Intern this summer.
-# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📚 Publications  
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+† Equal contribution  
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+### Conference Papers
+- **LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**  
+  **Jieming Bian**†, Lei Wang†, Letian Zhang, Jie Xu  
+  *International Conference on Computer Vision (ICCV), 2025*
+  [[PDF](https://arxiv.org/abs/2411.14961)]
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains**  
+  Lei Wang†, **Jieming Bian**†, Letian Zhang, Chen Chen, Jie Xu  
+  *Neural Information Processing Systems (NeurIPS), 2024*
+  [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a11e42a37c6bc926d6dc57e0cca0e825-Abstract-Conference.html)]
 
+- **Adaptive User-Centric Entanglement Routing in Quantum Data Networks**  
+  Lei Wang, **Jieming Bian**, Jie Xu  
+  *IEEE International Conference on Distributed Computing Systems (ICDCS), 2024*
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10630974)] 
+
+- **CAFE: Carbon-Aware Federated Learning in Geographically Distributed Data Centers**  
+  **Jieming Bian**, Lei Wang, Shaolei Ren, Jie Xu  
+  *ACM e-Energy, 2024* (**Best Paper Nomination**)
+  [[PDF](https://dl.acm.org/doi/abs/10.1145/3632775.3661970)]
+  
+- **Federated Learning with Instance-Dependent Noisy Label**  
+  Lei Wang, **Jieming Bian**, Jie Xu  
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*
+  [[PDF](https://ieeexplore.ieee.org/document/10447823)]
+
+- **FedMM: Federated Multi-Modal Learning with Modality Heterogeneity in Computational Pathology**  
+  Yuanzhe Peng, **Jieming Bian**, Jie Xu  
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*
+  [[PDF](https://ieeexplore.ieee.org/document/10448255)]
+
+- **Client Clustering for Energy-Efficient Clustered Federated Learning in Wireless Networks**  
+  **Jieming Bian**, Jie Xu  
+  *ACM UbiComp Adjunct / ISWC, 2023*
+  [[PDF](https://dl.acm.org/doi/abs/10.1145/3594739.3612913)]
+
+- **Federated Learning via Indirect Server-Client Communications**  
+  **Jieming Bian**, Cong Shen, Jie Xu  
+  *CISS, 2023*
+  [[PDF](https://ieeexplore.ieee.org/document/10089783)]
+
+- **Mobility-Assisted Federated Learning for Vehicular Edge Computing**  
+  **Jieming Bian**, Jie Xu  
+  *Asilomar Conference on Signals, Systems, and Computers, 2023*
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10477077)]
+   
+
+### Journal Papers
+- **Indirect-Communication Federated Learning via Mobile Transporters**  
+  **Jieming Bian**, Cong Shen, Mingzhe Chen, Jie Xu  
+  *IEEE Transactions on Mobile Computing, vol. 24, no. 6, 2025*
+  
+- **Accelerating Hybrid Federated Learning Convergence Under Partial Participation**  
+  **Jieming Bian**, Lei Wang, Kun Yang, Cong Shen, Jie Xu  
+  *IEEE Transactions on Signal Processing, vol. 72, pp. 3258–3271, 2024*  
+
+- **Accelerating Asynchronous Federated Learning Convergence via Opportunistic Mobile Relaying**  
+  **Jieming Bian**, Jie Xu  
+  *IEEE Transactions on Vehicular Technology, vol. 73, no. 7, 2024*  
+
+- **On the Local Cache Update Rules in Streaming Federated Learning**  
+  Heqiang Wang, **Jieming Bian**, Jie Xu  
+  *IEEE Internet of Things Journal, vol. 11, no. 6, 2024*  
+
+- **Hybrid Federated Learning for Multimodal IoT Systems**  
+  Yuanzhe Peng, Yusen Wu, **Jieming Bian**, Jie Xu  
+  *IEEE Internet of Things Journal, vol. 11, no. 21, 2024*  
+
+
+### Preprints
+- **Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning**  
+  **Jieming Bian**, Lei Wang, Jie Xu  
+
+- **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA**  
+  **Jieming Bian**†, Lei Wang†, Letian Zhang, Jie Xu  
+
+- **A Survey on Parameter-Efficient Fine-Tuning for Foundation Models in Federated Learning**  
+  **Jieming Bian**, Yuanzhe Peng, Lei Wang, Yin Huang, Jie Xu  
+
+- **Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms**  
+  Yuanzhe Peng, **Jieming Bian**, Lei Wang, Yin Huang, Jie Xu  
 
 # 📖 Educations
 - *2021.01 - now*, University of Florida, Ph.D. in Electrical and Computer Engineering.
@@ -48,6 +119,19 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 - *2024.06 - 2024.08*, NLP Data Scientist Intern, American Express, New York, NY.
 - *2020.06 - 2020.09*, Data Scientist Intern, Cygnus Education, Bryn Mawr, PA.
 
-# 💬 Service
-- Conference: AAAI 2026, ICCV 2025, NeurIP 2025 2024 2023 2022, ICML 2025 2024, CVPR 2025, AISTATS 2025, ICLR 2025 2024, 
-- Journal: IEEE TCCN, IEEE TSP, IEEE TMC, IEEE IOT, IEEE TNNLS, IEEE TGCN, IEEE TPDS, IEEE WCL, IEEE TNSE, IEEE TMLCN
+# 💬 Service  
+
+- **Conference Reviewer**:  
+  AAAI 2026, ICCV 2025, NeurIPS 2025/2024/2023/2022, ICML 2025/2024, CVPR 2025, AISTATS 2025, ICLR 2025/2024  
+
+- **Journal Reviewer**:  
+  IEEE Transactions on Cognitive Communications and Networking (TCCN),  
+  IEEE Transactions on Signal Processing (TSP),  
+  IEEE Transactions on Mobile Computing (TMC),  
+  IEEE Internet of Things Journal (IoT),  
+  IEEE Transactions on Neural Networks and Learning Systems (TNNLS),  
+  IEEE Transactions on Green Communications and Networking (TGCN),  
+  IEEE Transactions on Parallel and Distributed Systems (TPDS),  
+  IEEE Wireless Communications Letters (WCL),  
+  IEEE Transactions on Network Science and Engineering (TNSE),  
+  IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)  
