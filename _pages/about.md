@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-<img src="images/me.jpg" alt="portrait" style="width:200px; border-radius:50%; float:right; margin-left:20px"/>
+<img src="images/my_image.jpg" alt="portrait" style="width:200px; border-radius:50%; float:right; margin-left:20px"/>
 
 I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **University of Florida**, advised by Prof. Jie Xu.  
 My research focuses on **Federated Learning**, **Parameter-Efficient Fine-Tuning (PEFT)**, and **Large Foundation Models**.  
