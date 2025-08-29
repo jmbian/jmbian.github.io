@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Me"
+excerpt: "Ph.D. Candidate in Computer Engineering, University of Florida"
 author_profile: true
 redirect_from: 
   - /about/
