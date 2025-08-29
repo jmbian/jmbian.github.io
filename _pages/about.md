@@ -10,8 +10,6 @@ redirect_from:
 
 # About Me
 
-<img src="images/my_image.jpg" alt="portrait" style="width:200px; border-radius:50%; float:right; margin-left:20px"/>
-
 I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **University of Florida**, advised by Prof. [Jie Xu](https://jiexu.ece.ufl.edu/). Before joining UF, I was a master student at Columbia University, major in Operations Research. My research focuses on **Federated Learning**, **Parameter-Efficient Fine-Tuning (PEFT)**, and **Large Foundation Models**.  
 
 ---
