@@ -64,7 +64,7 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 
 - **Federated Learning via Indirect Server-Client Communications**  
   **Jieming Bian**, Cong Shen, Jie Xu  
-  *CISS, 2023*
+  *Annual Conference on Information Sciences and Systems (CISS)*
   [[PDF](https://ieeexplore.ieee.org/document/10089783)]
 
 - **Mobility-Assisted Federated Learning for Vehicular Edge Computing**  
@@ -77,36 +77,45 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 - **Indirect-Communication Federated Learning via Mobile Transporters**  
   **Jieming Bian**, Cong Shen, Mingzhe Chen, Jie Xu  
   *IEEE Transactions on Mobile Computing, vol. 24, no. 6, 2025*
+  [[PDF](https://ieeexplore.ieee.org/document/10833721)]
   
 - **Accelerating Hybrid Federated Learning Convergence Under Partial Participation**  
   **Jieming Bian**, Lei Wang, Kun Yang, Cong Shen, Jie Xu  
-  *IEEE Transactions on Signal Processing, vol. 72, pp. 3258–3271, 2024*  
+  *IEEE Transactions on Signal Processing, vol. 72, pp. 3258–3271, 2024*
+  [[PDF](https://ieeexplore.ieee.org/document/10546478)]
 
 - **Accelerating Asynchronous Federated Learning Convergence via Opportunistic Mobile Relaying**  
   **Jieming Bian**, Jie Xu  
-  *IEEE Transactions on Vehicular Technology, vol. 73, no. 7, 2024*  
+  *IEEE Transactions on Vehicular Technology, vol. 73, no. 7, 2024*
+  [[PDF](https://ieeexplore.ieee.org/document/10487894)] 
 
 - **On the Local Cache Update Rules in Streaming Federated Learning**  
   Heqiang Wang, **Jieming Bian**, Jie Xu  
-  *IEEE Internet of Things Journal, vol. 11, no. 6, 2024*  
+  *IEEE Internet of Things Journal, vol. 11, no. 6, 2024* 
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10295979)]
 
 - **Hybrid Federated Learning for Multimodal IoT Systems**  
   Yuanzhe Peng, Yusen Wu, **Jieming Bian**, Jie Xu  
-  *IEEE Internet of Things Journal, vol. 11, no. 21, 2024*  
+  *IEEE Internet of Things Journal, vol. 11, no. 21, 2024*
+  [[PDF](https://ieeexplore.ieee.org/document/10636779)] 
 
 
 ### Preprints
 - **Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning**  
-  **Jieming Bian**, Lei Wang, Jie Xu  
+  **Jieming Bian**, Lei Wang, Jie Xu
+  
 
 - **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA**  
-  **Jieming Bian**†, Lei Wang†, Letian Zhang, Jie Xu  
+  **Jieming Bian**†, Lei Wang†, Letian Zhang, Jie Xu
+  [[PDF](https://arxiv.org/abs/2503.11880)] 
 
 - **A Survey on Parameter-Efficient Fine-Tuning for Foundation Models in Federated Learning**  
-  **Jieming Bian**, Yuanzhe Peng, Lei Wang, Yin Huang, Jie Xu  
+  **Jieming Bian**, Yuanzhe Peng, Lei Wang, Yin Huang, Jie Xu
+  [[PDF](https://arxiv.org/abs/2504.21099)] 
 
 - **Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms**  
-  Yuanzhe Peng, **Jieming Bian**, Lei Wang, Yin Huang, Jie Xu  
+  Yuanzhe Peng, **Jieming Bian**, Lei Wang, Yin Huang, Jie Xu
+  [[PDF](https://arxiv.org/abs/2505.21792)] 
 
 # 📖 Educations
 - *2021.01 - now*, University of Florida, Ph.D. in Electrical and Computer Engineering.
