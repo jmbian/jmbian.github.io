@@ -24,9 +24,8 @@ My research focuses on **Federated Learning**, **Parameter-Efficient Fine-Tuning
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
+- *2025.05*: &nbsp;🎉🎉 I will join Amazon, Alexa AI Team as an Applied Scientist intern this summer.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
