@@ -17,7 +17,7 @@ My research focuses on **Federated Learning**, **Parameter-Efficient Fine-Tuning
 
 - 🎓 Ph.D. Candidate, University of Florida  
 - 📧 Email: jieming.bian@ufl.edu  
-- 🔗 [Google Scholar](https://scholar.google.com/citations?user=你的ID) | [GitHub](https://github.com/jmbian) | [LinkedIn](https://www.linkedin.com/in/你的ID)
+- 🔗 [Google Scholar](https://scholar.google.com/citations?user=k6E4dDwAAAAJ&hl=en) | [GitHub](https://github.com/jmbian) | [LinkedIn](https://www.linkedin.com/in/jieming-bian-07b678139/)
 
 ---
 
