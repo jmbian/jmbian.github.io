@@ -21,8 +21,6 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 
 # 📚 Publications  
 
----
-
 ### Conference Papers
 - **LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
@@ -61,7 +59,7 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 
 - **Federated Learning via Indirect Server-Client Communications**  
   **Jieming Bian**, Cong Shen, Jie Xu  
-  *Annual Conference on Information Sciences and Systems (CISS)*  
+  *Annual Conference on Information Sciences and Systems (CISS), 2023*  
   [[PDF](https://ieeexplore.ieee.org/document/10089783)]
 
 - **Mobility-Assisted Federated Learning for Vehicular Edge Computing**  
