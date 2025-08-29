@@ -119,7 +119,7 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 
 
 # 💻 Internships
-- *2024.06 - 2024.08*, Applied Scientist Intern, [Amazon](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence), Boston, MA.
+- *2025.05 - 2025.08*, Applied Scientist Intern, [Amazon](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence), Boston, MA.
 - *2024.06 - 2024.08*, NLP Data Scientist Intern, [American Express](https://www.americanexpress.com/), New York, NY.
 - *2020.06 - 2020.09*, Data Scientist Intern, [Cygnus Education](https://cygnuseducation.com/), Bryn Mawr, PA.
 
