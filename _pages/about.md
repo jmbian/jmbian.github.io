@@ -25,12 +25,12 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 - **LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
   *International Conference on Computer Vision (ICCV), 2025*  
-  [[PDF](https://arxiv.org/abs/2411.14961)]
+  [[PDF](https://arxiv.org/abs/2411.14961)], [[Code](https://github.com/jmbian/LoRA-FAIR)]
 
 - **Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains**  
   Lei Wang (equal contribution), **Jieming Bian** (equal contribution), Letian Zhang, Chen Chen, Jie Xu  
   *Neural Information Processing Systems (NeurIPS), 2024*  
-  [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a11e42a37c6bc926d6dc57e0cca0e825-Abstract-Conference.html)]
+  [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a11e42a37c6bc926d6dc57e0cca0e825-Abstract-Conference.html)], [[Code](https://github.com/lei-wang-link/FedPLVM)]
 
 - **Adaptive User-Centric Entanglement Routing in Quantum Data Networks**  
   Lei Wang, **Jieming Bian**, Jie Xu  
