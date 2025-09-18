@@ -16,12 +16,23 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 I will join Amazon Alexa AI as an Applied Scientist Intern this summer.
 
 # 📚 Publications  
 
 ### Conference Papers
+- **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**  
+  Lei Wang (equal contribution), **Jieming Bian** (equal contribution), Letian Zhang, Jie Xu  
+  *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*  
+  [PDF], [Code]
+  
+- **FedEL: Federated Elastic Learning for Heterogeneous Devices**  
+  Letian Zhang, Bo Chen, **Jieming Bian**, Lei Wang, Jie Xu  
+  *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*  
+  [PDF], [Code]
+  
 - **LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
   *International Conference on Computer Vision (ICCV), 2025*  
@@ -29,7 +40,7 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 
 - **Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains**  
   Lei Wang (equal contribution), **Jieming Bian** (equal contribution), Letian Zhang, Chen Chen, Jie Xu  
-  *Neural Information Processing Systems (NeurIPS), 2024*  
+  *Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*  
   [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a11e42a37c6bc926d6dc57e0cca0e825-Abstract-Conference.html)], [[Code](https://github.com/lei-wang-link/FedPLVM)]
 
 - **Adaptive User-Centric Entanglement Routing in Quantum Data Networks**  
