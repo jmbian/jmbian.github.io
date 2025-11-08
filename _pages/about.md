@@ -56,7 +56,7 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 
 - **CAFE: Carbon-Aware Federated Learning in Geographically Distributed Data Centers**  
   **Jieming Bian**, Lei Wang, Shaolei Ren, Jie Xu  
-  *ACM e-Energy, 2024* (**Best Paper Nomination**)  
+  *The 15th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy), 2024* (**Best Paper Nomination**)  
   [[PDF](https://dl.acm.org/doi/abs/10.1145/3632775.3661970)]
   
 - **Federated Learning with Instance-Dependent Noisy Label**  
