@@ -71,7 +71,7 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 
 - **Client Clustering for Energy-Efficient Clustered Federated Learning in Wireless Networks**  
   **Jieming Bian**, Jie Xu  
-  *ACM UbiComp Adjunct / ISWC, 2023*  
+  *UbiComp/ISWC’23 Workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing (UbiComp-CPD), 2023*  
   [[PDF](https://dl.acm.org/doi/abs/10.1145/3594739.3612913)]
 
 - **Federated Learning via Indirect Server-Client Communications**  
