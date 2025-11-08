@@ -26,7 +26,7 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 ### Conference Papers
 - **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
-  *The Association for the Advancement of Artificial Intelligence (AAAI), 2026*  
+  *AAAI Conference on Artificial Intelligence (AAAI), 2026*  
   [[PDF](https://arxiv.org/abs/2503.11880)] [[Code]]
   
 - **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**  
