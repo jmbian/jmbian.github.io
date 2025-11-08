@@ -16,6 +16,7 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 I will join Amazon Alexa AI as an Applied Scientist Intern this summer.
@@ -23,15 +24,20 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 # 📚 Publications  
 
 ### Conference Papers
+- **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA**  
+  **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu
+  *The Association for the Advancement of Artificial Intelligence (AAAI), 2026*
+  [[PDF](https://arxiv.org/abs/2503.11880)], [Code]
+  
 - **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**  
   Lei Wang (equal contribution), **Jieming Bian** (equal contribution), Letian Zhang, Jie Xu  
   *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*  
-  [PDF], [Code]
+  [[PDF](https://arxiv.org/pdf/2509.15087)], [Code]
   
 - **FedEL: Federated Elastic Learning for Heterogeneous Devices**  
   Letian Zhang, Bo Chen, **Jieming Bian**, Lei Wang, Jie Xu  
   *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*  
-  [PDF], [Code]
+  [[PDF](https://arxiv.org/abs/2509.16902)], [Code]
   
 - **LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
@@ -110,10 +116,6 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 - **Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning**  
   **Jieming Bian**, Lei Wang, Jie Xu  
   [[PDF](https://arxiv.org/abs/2408.06549)] 
-  
-- **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA**  
-  **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
-  [[PDF](https://arxiv.org/abs/2503.11880)] 
 
 - **A Survey on Parameter-Efficient Fine-Tuning for Foundation Models in Federated Learning**  
   **Jieming Bian**, Yuanzhe Peng, Lei Wang, Yin Huang, Jie Xu  
