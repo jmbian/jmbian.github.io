@@ -27,12 +27,12 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 - **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
   *AAAI Conference on Artificial Intelligence (AAAI), 2026*  
-  [[PDF](https://arxiv.org/abs/2503.11880)], [Code]
+  [[PDF](https://arxiv.org/abs/2503.11880)], [[Code](https://github.com/jmbian/FedALT)]
   
 - **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**  
   Lei Wang (equal contribution), **Jieming Bian** (equal contribution), Letian Zhang, Jie Xu  
   *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*  
-  [[PDF](https://arxiv.org/pdf/2509.15087)], [Code]
+  [[PDF](https://arxiv.org/pdf/2509.15087)], [[Code](https://github.com/lei-wang-link/FedLEASE)]
   
 - **FedEL: Federated Elastic Learning for Heterogeneous Devices**  
   Letian Zhang, Bo Chen, **Jieming Bian**, Lei Wang, Jie Xu  
@@ -142,7 +142,9 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
   AAAI 2026, ICCV 2025, NeurIPS 2025/2024/2023/2022, ICML 2025/2024, CVPR 2025, AISTATS 2026/2025, ICLR 2026/2025/2024  
 
 - **Journal Reviewer**:  
-  IEEE Transactions on Cognitive Communications and Networking (TCCN),  
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),  
+  IEEE Transactions on Dependable and Secure Computing (TDSC),  
+  IEEE Transactions on Cognitive Communications and Networking (TCCN),    
   IEEE Transactions on Signal Processing (TSP),  
   IEEE Transactions on Mobile Computing (TMC),  
   IEEE Internet of Things Journal (IoT),  
