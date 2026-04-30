@@ -16,7 +16,8 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 
 
 # 🔥 News
-- *2026.05*:  🎉🎉 One paper is accepted by ICML 2026.
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
+- *2026.05*: &nbsp;🎉🎉 I officially received my Ph.D. degree from the University of Florida and will join Amazon Alexa AI as a full-time Applied Scientist.
 - *2026.04*: &nbsp;🎉🎉 I received the Graduate Student Excellence Award – Research from the Department of Electrical and Computer Engineering at the University of Florida.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
