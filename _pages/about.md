@@ -134,7 +134,7 @@ I am **Jieming Bian**, an Applied Scientist at Amazon Alexa AI. I obtained my Ph
   [[PDF](https://arxiv.org/abs/2505.21792)]  
 
 # 📖 Educations
-- *2021.01 - now*, University of Florida, Ph.D. in Electrical and Computer Engineering.
+- *2021.01 - 2026.05*, University of Florida, Ph.D. in Electrical and Computer Engineering.
 - *2019.09 - 2020.12*, Columbia University, M.S. in Operations Research.
 - *2016.09 - 2019.05*, University of Colorado Denver, B.A. in Econometrics and Quantitative Economics.
 
@@ -147,7 +147,7 @@ I am **Jieming Bian**, an Applied Scientist at Amazon Alexa AI. I obtained my Ph
 # 💬 Service  
 
 - **Conference Reviewer**:  
-  AAAI 2026, ICCV 2025, NeurIPS 2025/2024/2023/2022, ICML 2026/2025/2024, CVPR 2025, AISTATS 2026/2025, ICLR 2026/2025/2024  
+  AAAI 2026, ICCV 2025, NeurIPS 2026/2025/2024/2023/2022, ICML 2026/2025/2024, CVPR 2025, AISTATS 2026/2025, ICLR 2026/2025/2024  
 
 - **Journal Reviewer**:  
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),  
