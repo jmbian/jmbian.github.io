@@ -30,7 +30,7 @@ I am **Jieming Bian**, a Ph.D. Candidate in Computer Engineering at the **Univer
 - **FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
   *International Conference on Machine Learning (ICML), 2026*  
-  [[PDF](https://arxiv.org/pdf/2603.13282)], [Code]
+  [[PDF](https://arxiv.org/pdf/2603.13282)], [[Code](https://github.com/jmbian/FedTreeLoRA)]
   
 - **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
