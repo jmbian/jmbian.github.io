@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "Ph.D. in Computer Engineering, University of Florida"
+excerpt: "Applied Scientist at Amazon"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,6 +16,7 @@ I am **Jieming Bian**, an Applied Scientist at Amazon Alexa AI. I obtained my Ph
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2026.
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
 - *2026.05*: &nbsp;🎉🎉 I officially received my Ph.D. degree from the University of Florida and will join Amazon Alexa AI as a full-time Applied Scientist.
 - *2026.04*: &nbsp;🎉🎉 I received the Graduate Student Excellence Award – Research from the Department of Electrical and Computer Engineering at the University of Florida.
@@ -27,6 +28,11 @@ I am **Jieming Bian**, an Applied Scientist at Amazon Alexa AI. I obtained my Ph
 # 📚 Publications  
 
 ### Conference Papers
+- **Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity**  
+  Lei Wang (equal contribution), **Jieming Bian** (equal contribution), Letian Zhang, Jie Xu  
+  *Conference on Empirical Methods in Natural Language Processing (EMNLP), Findings, 2026*   
+  [PDF], [Code]
+  
 - **FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
   *International Conference on Machine Learning (ICML), 2026*  
@@ -134,7 +140,8 @@ I am **Jieming Bian**, an Applied Scientist at Amazon Alexa AI. I obtained my Ph
   [[PDF](https://arxiv.org/abs/2505.21792)]  
 
 # 📖 Educations
-- *2021.01 - 2026.05*, University of Florida, Ph.D. in Electrical and Computer Engineering.
+- *2024.08 - 2026.05*, University of Florida, Ph.D. in Electrical and Computer Engineering.
+- *2021.01 - 2024.08*, University of Miami, Ph.D. in Electrical and Computer Engineering.
 - *2019.09 - 2020.12*, Columbia University, M.S. in Operations Research.
 - *2016.09 - 2019.05*, University of Colorado Denver, B.A. in Econometrics and Quantitative Economics.
 
@@ -147,7 +154,7 @@ I am **Jieming Bian**, an Applied Scientist at Amazon Alexa AI. I obtained my Ph
 # 💬 Service  
 
 - **Conference Reviewer**:  
-  AAAI 2026, ICCV 2025, NeurIPS 2026/2025/2024/2023/2022, ICML 2026/2025/2024, CVPR 2025, AISTATS 2026/2025, ICLR 2026/2025/2024  
+  AAAI 2026/2027, ICCV 2025, NeurIPS 2026/2025/2024/2023/2022, ICML 2026/2025/2024, CVPR 2025, AISTATS 2026/2025, ICLR 2026/2025/2024, ARR 2026  
 
 - **Journal Reviewer**:  
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),  
