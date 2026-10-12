@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jieming Bian"
   avatar           : "images/android-chrome-512x512.png"  
-  bio              : "Ph.D. Candidate in Computer Engineering, University of Florida"
-  location         : "Gainesville, FL, USA"
-  employer         : "University of Florida"
+  bio              : "Applied Scientist at Amazon"
+  location         : "Boston, MA, USA"
+  employer         : "Amazon"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=k6E4dDwAAAAJ&hl=en"
   email            : "jieming.bian@ufl.edu"

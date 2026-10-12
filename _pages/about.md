@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am **Jieming Bian**, an Applied Scientist at Amazon Alexa AI. I obtained my Ph.D. degree in Computer Engineering from the University of Florida under the supervision of Prof. [Jie Xu](https://jiexu.ece.ufl.edu/). Prior to that, I was a master student at Columbia University, major in Operations Research. My research focuses on **Federated Learning**, **Parameter-Efficient Fine-Tuning (PEFT)**, and **Large Foundation Models**.  
+I am **Jieming Bian**, an Applied Scientist on the Sandstone team at Amazon. I obtained my Ph.D. degree in Computer Engineering from the University of Florida under the supervision of Prof. [Jie Xu](https://jiexu.ece.ufl.edu/). Prior to that, I was a master student at Columbia University, major in Operations Research. My research focuses on **Federated Learning**, **Parameter-Efficient Fine-Tuning (PEFT)**, and **Large Foundation Models**.  
 
 ---
 
