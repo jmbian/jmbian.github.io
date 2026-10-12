@@ -100,27 +100,27 @@ I am **Jieming Bian**, an Applied Scientist on the Sandstone team at Amazon. I o
    
 
 ### Journal Papers
-- **Indirect-Communication Federated Learning via Mobile Transporters**  
+- <span class="venue-badge">TMC</span> **Indirect-Communication Federated Learning via Mobile Transporters**  
   **Jieming Bian**, Cong Shen, Mingzhe Chen, Jie Xu  
   *IEEE Transactions on Mobile Computing, vol. 24, no. 6, 2025*  
   [[PDF](https://ieeexplore.ieee.org/document/10833721)]
   
-- **Accelerating Hybrid Federated Learning Convergence Under Partial Participation**  
+- <span class="venue-badge">TSP</span> **Accelerating Hybrid Federated Learning Convergence Under Partial Participation**  
   **Jieming Bian**, Lei Wang, Kun Yang, Cong Shen, Jie Xu  
   *IEEE Transactions on Signal Processing, vol. 72, pp. 3258–3271, 2024*  
   [[PDF](https://ieeexplore.ieee.org/document/10546478)]
 
-- **Accelerating Asynchronous Federated Learning Convergence via Opportunistic Mobile Relaying**  
+- <span class="venue-badge">TVT</span> **Accelerating Asynchronous Federated Learning Convergence via Opportunistic Mobile Relaying**  
   **Jieming Bian**, Jie Xu  
   *IEEE Transactions on Vehicular Technology, vol. 73, no. 7, 2024*  
   [[PDF](https://ieeexplore.ieee.org/document/10487894)] 
 
-- **On the Local Cache Update Rules in Streaming Federated Learning**  
+- <span class="venue-badge">IoT-J</span> **On the Local Cache Update Rules in Streaming Federated Learning**  
   Heqiang Wang, **Jieming Bian**, Jie Xu  
   *IEEE Internet of Things Journal, vol. 11, no. 6, 2024*  
   [[PDF](https://ieeexplore.ieee.org/abstract/document/10295979)]
 
-- **Hybrid Federated Learning for Multimodal IoT Systems**  
+- <span class="venue-badge">IoT-J</span> **Hybrid Federated Learning for Multimodal IoT Systems**  
   Yuanzhe Peng, Yusen Wu, **Jieming Bian**, Jie Xu  
   *IEEE Internet of Things Journal, vol. 11, no. 21, 2024*  
   [[PDF](https://ieeexplore.ieee.org/document/10636779)] 
