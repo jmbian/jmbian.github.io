@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am **Jieming Bian**, an Applied Scientist on the Sandstone team at Amazon. I obtained my Ph.D. degree in Computer Engineering from the University of Florida under the supervision of Prof. [Jie Xu](https://jiexu.ece.ufl.edu/). Prior to that, I was a master student at Columbia University, major in Operations Research. My research focuses on **Federated Learning**, **Parameter-Efficient Fine-Tuning (PEFT)**, and **Large Foundation Models**.  
+I am **Jieming Bian**, an Applied Scientist on the Sandstone team at Amazon. I obtained my Ph.D. degree in Computer Engineering from the University of Florida under the supervision of Prof. [Jie Xu](https://jiexu.ece.ufl.edu/). Prior to that, I received my M.S. in Operations Research from Columbia University. My research focuses on **Federated Learning**, **Parameter-Efficient Fine-Tuning (PEFT)**, and **Large Foundation Models**.  
 
 ---
 
@@ -28,72 +28,72 @@ I am **Jieming Bian**, an Applied Scientist on the Sandstone team at Amazon. I o
 # 📚 Publications  
 
 ### Conference Papers
-- **Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity**  
+- <span class="venue-badge">EMNLP Findings 2026</span> **Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity**  
   Lei Wang (equal contribution), **Jieming Bian** (equal contribution), Letian Zhang, Jie Xu  
   *Conference on Empirical Methods in Natural Language Processing (EMNLP), Findings, 2026*   
-  [PDF], [Code]
+  [[PDF](https://arxiv.org/pdf/2609.00632)], [[Code](https://github.com/lei-wang-link/FedRoRA)]
   
-- **FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning**  
+- <span class="venue-badge">ICML 2026</span> **FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
   *International Conference on Machine Learning (ICML), 2026*  
   [[PDF](https://arxiv.org/pdf/2603.13282)], [[Code](https://github.com/jmbian/FedTreeLoRA)]
   
-- **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA**  
+- <span class="venue-badge">AAAI 2026</span> **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-the-World LoRA**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
   *AAAI Conference on Artificial Intelligence (AAAI), 2026*  
   [[PDF](https://arxiv.org/abs/2503.11880)], [[Code](https://github.com/jmbian/FedALT)]
   
-- **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**  
+- <span class="venue-badge">NeurIPS 2025</span> **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**  
   Lei Wang (equal contribution), **Jieming Bian** (equal contribution), Letian Zhang, Jie Xu  
   *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*  
   [[PDF](https://arxiv.org/pdf/2509.15087)], [[Code](https://github.com/lei-wang-link/FedLEASE)]
   
-- **FedEL: Federated Elastic Learning for Heterogeneous Devices**  
+- <span class="venue-badge">NeurIPS 2025</span> **FedEL: Federated Elastic Learning for Heterogeneous Devices**  
   Letian Zhang, Bo Chen, **Jieming Bian**, Lei Wang, Jie Xu  
   *Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*  
   [[PDF](https://arxiv.org/abs/2509.16902)], [Code]
   
-- **LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**  
+- <span class="venue-badge">ICCV 2025</span> **LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**  
   **Jieming Bian** (equal contribution), Lei Wang (equal contribution), Letian Zhang, Jie Xu  
   *International Conference on Computer Vision (ICCV), 2025*  
   [[PDF](https://arxiv.org/abs/2411.14961)], [[Code](https://github.com/jmbian/LoRA-FAIR)]
 
-- **Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains**  
+- <span class="venue-badge">NeurIPS 2024</span> **Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains**  
   Lei Wang (equal contribution), **Jieming Bian** (equal contribution), Letian Zhang, Chen Chen, Jie Xu  
   *Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*  
   [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a11e42a37c6bc926d6dc57e0cca0e825-Abstract-Conference.html)], [[Code](https://github.com/lei-wang-link/FedPLVM)]
 
-- **Adaptive User-Centric Entanglement Routing in Quantum Data Networks**  
+- <span class="venue-badge">ICDCS 2024</span> **Adaptive User-Centric Entanglement Routing in Quantum Data Networks**  
   Lei Wang, **Jieming Bian**, Jie Xu  
   *IEEE International Conference on Distributed Computing Systems (ICDCS), 2024*  
   [[PDF](https://ieeexplore.ieee.org/abstract/document/10630974)] 
 
-- **CAFE: Carbon-Aware Federated Learning in Geographically Distributed Data Centers**  
+- <span class="venue-badge">e-Energy 2024</span> **CAFE: Carbon-Aware Federated Learning in Geographically Distributed Data Centers**  
   **Jieming Bian**, Lei Wang, Shaolei Ren, Jie Xu  
   *The 15th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy), 2024* (**Best Paper Nomination**)  
   [[PDF](https://dl.acm.org/doi/abs/10.1145/3632775.3661970)]
   
-- **Federated Learning with Instance-Dependent Noisy Label**  
+- <span class="venue-badge">ICASSP 2024</span> **Federated Learning with Instance-Dependent Noisy Label**  
   Lei Wang, **Jieming Bian**, Jie Xu  
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*  
   [[PDF](https://ieeexplore.ieee.org/document/10447823)]
 
-- **FedMM: Federated Multi-Modal Learning with Modality Heterogeneity in Computational Pathology**  
+- <span class="venue-badge">ICASSP 2024</span> **FedMM: Federated Multi-Modal Learning with Modality Heterogeneity in Computational Pathology**  
   Yuanzhe Peng, **Jieming Bian**, Jie Xu  
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*  
   [[PDF](https://ieeexplore.ieee.org/document/10448255)]
 
-- **Client Clustering for Energy-Efficient Clustered Federated Learning in Wireless Networks**  
+- <span class="venue-badge">UbiComp-CPD 2023</span> **Client Clustering for Energy-Efficient Clustered Federated Learning in Wireless Networks**  
   **Jieming Bian**, Jie Xu  
   *UbiComp/ISWC’23 Workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing (UbiComp-CPD), 2023*  
   [[PDF](https://dl.acm.org/doi/abs/10.1145/3594739.3612913)]
 
-- **Federated Learning via Indirect Server-Client Communications**  
+- <span class="venue-badge">CISS 2023</span> **Federated Learning via Indirect Server-Client Communications**  
   **Jieming Bian**, Cong Shen, Jie Xu  
   *Annual Conference on Information Sciences and Systems (CISS), 2023*  
   [[PDF](https://ieeexplore.ieee.org/document/10089783)]
 
-- **Mobility-Assisted Federated Learning for Vehicular Edge Computing**  
+- <span class="venue-badge">Asilomar 2023</span> **Mobility-Assisted Federated Learning for Vehicular Edge Computing**  
   **Jieming Bian**, Jie Xu  
   *Asilomar Conference on Signals, Systems, and Computers, 2023*  
   [[PDF](https://ieeexplore.ieee.org/abstract/document/10477077)]
@@ -139,14 +139,16 @@ I am **Jieming Bian**, an Applied Scientist on the Sandstone team at Amazon. I o
   Yuanzhe Peng, **Jieming Bian**, Lei Wang, Yin Huang, Jie Xu  
   [[PDF](https://arxiv.org/abs/2505.21792)]  
 
-# 📖 Educations
+# 📖 Education
 - *2024.08 - 2026.05*, University of Florida, Ph.D. in Electrical and Computer Engineering.
 - *2021.01 - 2024.08*, University of Miami, Ph.D. in Electrical and Computer Engineering.
 - *2019.09 - 2020.12*, Columbia University, M.S. in Operations Research.
 - *2016.09 - 2019.05*, University of Colorado Denver, B.A. in Econometrics and Quantitative Economics.
 
 
-# 💻 Internships
+# 💻 Experience
+- *2026.10 - Present*, Applied Scientist, Amazon (Sandstone), San Diego, CA.
+- *2026.05 - 2026.10*, Applied Scientist, Amazon (Alexa AI), Boston, MA.
 - *2025.05 - 2025.08*, Applied Scientist Intern, [Amazon](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence), Boston, MA.
 - *2024.06 - 2024.08*, NLP Data Scientist Intern, [American Express](https://www.americanexpress.com/), New York, NY.
 - *2020.06 - 2020.09*, Data Scientist Intern, [Cygnus Education](https://cygnuseducation.com/), Bryn Mawr, PA.
@@ -157,15 +159,4 @@ I am **Jieming Bian**, an Applied Scientist on the Sandstone team at Amazon. I o
   AAAI 2026/2027, ICCV 2025, NeurIPS 2026/2025/2024/2023/2022, ICML 2026/2025/2024, CVPR 2025, AISTATS 2026/2025, ICLR 2026/2025/2024, ARR 2026  
 
 - **Journal Reviewer**:  
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),  
-  IEEE Transactions on Dependable and Secure Computing (TDSC),  
-  IEEE Transactions on Cognitive Communications and Networking (TCCN),    
-  IEEE Transactions on Signal Processing (TSP),  
-  IEEE Transactions on Mobile Computing (TMC),  
-  IEEE Internet of Things Journal (IoT),  
-  IEEE Transactions on Neural Networks and Learning Systems (TNNLS),  
-  IEEE Transactions on Green Communications and Networking (TGCN),  
-  IEEE Transactions on Parallel and Distributed Systems (TPDS),  
-  IEEE Wireless Communications Letters (WCL),  
-  IEEE Transactions on Network Science and Engineering (TNSE),  
-  IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)  
+  IEEE TPAMI, TDSC, TCCN, TSP, TMC, IoT-J, TNNLS, TGCN, TPDS, WCL, TNSE, TMLCN  
